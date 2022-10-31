@@ -131,26 +131,6 @@ p {
   width: 100%;
 }
 
-.blob_1 {
-  position: absolute;
-  background-color: #FDCAC2;
-  width: 150px;
-  height: 150px;
-  border-radius: 100px;
-  left: -77px;
-  top: 19%;
-}
-
-.blob_2 {
-  position: absolute;
-  background-color: #94E6EF;
-  width: 100px;
-  height: 100px;
-  border-radius: 55px;
-  right: -60px;
-  top: 50%;
-}
-
 .btn_contact {
   background-color: #fff;
   border-radius: 20px;
@@ -220,10 +200,7 @@ p {
   background-color: #fff;
   color: #ff9184;
   border: 1px solid #FF9184;
-
 }
-
-
 
 .qui {
   height: auto;
@@ -275,8 +252,6 @@ p {
   border-radius: 20px;
 }
 
-
-
 .projets {
   height: auto;
   margin: auto 10%;
@@ -289,7 +264,6 @@ p {
   text-align: center;
   margin: 50px 0;
   font-weight: 700;
-
 }
 
 .border_bottom {
@@ -399,7 +373,6 @@ form {
 
 .contact-form {
   box-shadow: rgb(149 157 165 / 20%) 0px 8px 24px;
-
   margin: 80px 10%;
   padding: 10px 0px;
   text-align: center;
